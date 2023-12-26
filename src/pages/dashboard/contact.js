@@ -9,7 +9,7 @@ const Contact = () => {
       <h1> Jika ingin memesan Hubungi Di bawah Sini:</h1>
       <h2>Hubungi</h2>
       <ul>
-        <li>Nama Lengkap: [Ponimin]</li>
+        <li>Nama Lengkap: [Noval Rizkiawan]</li>
         <li>Tempat, Tanggal Lahir: [Banyuwangi, 01 November 2002]</li>
         <li>Alamat: [Jl.ikanLayur.No.49 SutriSobo Banyuwangi]</li>
         <li>Nomor Telepon: [085331533600]</li>
